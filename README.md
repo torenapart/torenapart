@@ -5,7 +5,7 @@ Welcome to my profile!
 About Me: I'm a third year Computer Science major at Wilfrid Laurier University. I've had a love for computer science ever since I was in Elementary school,
 and I'm looking to learn all I can and more about the subject.
 - 🔭 I’m currently working on my plan to create a helpful and informative guide on one of my favourite video games.
-- 🌱 I’m currently learning: C in my second year Data strutures course
+- 🌱 I’m currently learning: C in my third year Data strutures course
 - 💬 Ask me about: Video Games, Animanga, and Music.
 - 📫 How to reach me: torenqt@gmail.com
 - 😄 Pronouns: He/Him
